@@ -1,1 +1,4 @@
-# csci-2503-assign-3
+# CSCI 2503 - Survery of Programming Languages
+## Assignment 3
+
+Completed in Summer 2026
