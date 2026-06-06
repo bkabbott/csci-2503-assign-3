@@ -5,7 +5,7 @@ with open('grades.csv') as f:
     reader = csv.reader(f)
     data = list(reader)
 
-# declare / set variables
+# Declare and set variables
 grade_sum = 0
 count = 0
 highest_grade = None
