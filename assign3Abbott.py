@@ -15,7 +15,7 @@ lowest_student = ""
 grades_below_average = 0
 grades_above_average = 0
 
-# Iterate through list first time to calculate highest grade, lowest grade, and sum
+# Iterate through list first time to calculate the highest grade, the lowest grade, and the sum
 for row in data:
     student = row[0]
     grade = float(row[1])
