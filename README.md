@@ -1,4 +1,4 @@
-# CSCI 2503 - Survery of Programming Languages
+# CSCI 2503 - Survey of Programming Languages
 ## Assignment 3
 
-Completed in Summer 2026
+Completed in Summer 2026 at Georgia Southern University's Armstrong Campus.
