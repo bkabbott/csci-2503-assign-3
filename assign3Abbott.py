@@ -39,7 +39,7 @@ for row in data:
     elif grade < average_grade:
         grades_below_average += 1
 
-# Calculate the percentages above or below the avergae
+# Calculate the percentages above or below the average
 percentage_above_average = grades_above_average / count * 100
 percentage_below_average = grades_below_average / count * 100
 
