@@ -20,6 +20,7 @@ highest_grade = None
 highest_student = ""
 lowest_grade = None
 lowest_student = ""
+average_grade = 0
 grades_below_average = 0
 grades_above_average = 0
 
