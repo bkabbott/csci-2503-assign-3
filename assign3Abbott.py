@@ -1,3 +1,11 @@
+#############################################
+# Name: Brian Abbott
+# Class: CSCI 2503
+# Assignment: 3
+# Date Created: 6/06/26
+# Last Modified: 6/06/26
+#############################################
+
 import csv
 
 # Open CSV file and add it to a list
